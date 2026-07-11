@@ -21,7 +21,7 @@ This repository documents my journey of learning Python through daily coding pra
 | Day | Topic | Status |
 |-----|-----------------------------|:------:|
 | Day 1 | Python Setup & First Program | ✅ |
-| Day 2 | In Progress | 🚧 |
+| Day 2 | Built-inFunctions and Variables | ✅ |
 | Day 3 | Coming Soon | ⏳ |
 
 ---
@@ -36,7 +36,7 @@ This repository documents my journey of learning Python through daily coding pra
 │   ├── hello_world.py
 │   └── notes.md
 ├── Day02/
-│   ├── challenge.py
+│   ├── variables.py
 │   └── notes.md
 │
 └── ...
