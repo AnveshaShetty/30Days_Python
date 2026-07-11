@@ -2,7 +2,7 @@
 
 Welcome to my **30 Days of Python**!
 
-This repository documents my journey of learning Python through daily coding practice. The goal is to build consistency, strengthen programming fundamentals, and improve problem-solving skills by committing code every day.
+This repository documents my journey of learning Python through daily coding practice with my partner, Pratham. The goal is to build consistency, strengthen programming fundamentals, and improve problem-solving skills by committing code every day.
 
 ## 🎯 Objectives
 
