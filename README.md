@@ -1,2 +1,56 @@
-# 30Days_Python
-Documenting my 30-day Python learning journey with daily commits.
+# 🐍 30 Days of Python
+
+Welcome to my **30 Days of Python**!
+
+This repository documents my journey of learning Python through daily coding practice. The goal is to build consistency, strengthen programming fundamentals, and improve problem-solving skills by committing code every day.
+
+## 🎯 Objectives
+
+- Learn Python step by step
+- Practice coding every day
+- Build strong programming fundamentals
+- Improve logical thinking and problem-solving
+- Maintain consistency through daily GitHub commits
+
+---
+
+## 📅 Progress
+
+## 📅 Progress
+
+| Day | Topic | Status |
+|-----|-----------------------------|:------:|
+| Day 1 | Python Setup & First Program | ✅ |
+| Day 2 | In Progress | 🚧 |
+| Day 3 | Coming Soon | ⏳ |
+
+---
+
+## 📂 Repository Structure
+
+```
+30-days-of-python/
+│
+├── README.md
+├── Day01/
+│   ├── hello_world.py
+│   └── notes.md
+├── Day02/
+│   ├── challenge.py
+│   └── notes.md
+│
+└── ...
+```
+
+
+## 🚀 Technologies
+
+- Python 3
+
+---
+
+## 📌 Goal
+
+By the end of this challenge, I aim to become more confident in Python programming while building a habit of coding consistently every day.
+
+Happy Coding! 🐍✨
