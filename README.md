@@ -16,8 +16,6 @@ This repository documents my journey of learning Python through daily coding pra
 
 ## 📅 Progress
 
-## 📅 Progress
-
 | Day | Topic | Status |
 |-----|-----------------------------|:------:|
 | Day 1 | Python Setup & First Program | ✅ |
