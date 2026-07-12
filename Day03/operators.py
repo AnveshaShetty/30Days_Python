@@ -104,7 +104,7 @@ print(floor_division==value)
 #Comparision Operation 
 print(type('10')==type(10))
 
-print(int('9.8')==10) #ValueError: invalid literal for int() with base 10: '9.8'
+print(int('9.8')==10) #ValueError: 9.8 is considered as string whereas 10 is a integer 
 
 
 #Calculating the pay of the person
