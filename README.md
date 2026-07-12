@@ -20,7 +20,8 @@ This repository documents my journey of learning Python through daily coding pra
 |-----|-----------------------------|:------:|
 | Day 1 | Python Setup & First Program | ✅ |
 | Day 2 | Built-inFunctions and Variables | ✅ |
-| Day 3 | Coming Soon | ⏳ |
+| Day 3 | Operators | ✅ |
+| Day 4 | Coming soon | ⏳ |
 
 ---
 
