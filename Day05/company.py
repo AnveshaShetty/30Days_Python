@@ -28,7 +28,7 @@ print(it_companies)    #['Nvidia', 'Google', 'Microsoft', 'Apple', 'Infosys', 'I
 
 
 #Change one of the it_companies names to uppercase (IBM excluded!)
-it_companies[3] = it_companies.upper()
+it_companies[3] = it_companies[3].upper()
 print(it_companies)    #['Nvidia', 'Google', 'Microsoft', 'APPLE', 'Infosys', 'IBM', 'Oracle', 'Amazon', 'TCS']
 
 
