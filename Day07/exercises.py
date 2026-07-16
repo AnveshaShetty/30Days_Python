@@ -11,6 +11,7 @@
 #Insert multiple IT companies at once to the set it_companies
 #Remove one of the companies from the set it_companies
 #What is the difference between remove and discard
+#    FILE: companies.py
 
 
 #Level 2
@@ -21,9 +22,11 @@
 #Join A with B and B with A
 #What is the symmetric difference between A and B
 #Delete the sets completely
+#    FILE: basic_functions.py
 
 
 #Level 3
 #Convert the ages to a set and compare the length of the list and the set, which one is bigger?
 #Explain the difference between the following data types: string, list, tuple and set
 #I am a teacher and I love to inspire and teach people. How many unique words have been used in the sentence? Use the split methods and set to get the unique words.
+#    FILE: sets.py
