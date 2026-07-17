@@ -24,7 +24,9 @@ This repository documents my journey of learning Python through daily coding pra
 | Day 4 | String | ✅ |
 | Day 5 | List | ✅ |
 | Day 6 | Tuples | ✅ |
-| Day 7 | Coming Soon | ⏳ |
+| Day 7 | Sets | ✅ |
+| Day 8 | Dictionaries | ✅ |
+| Day 9 | Coming Soon | ⏳ |
 
 ---
 
