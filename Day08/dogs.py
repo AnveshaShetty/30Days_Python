@@ -6,8 +6,8 @@ dog = {
   'name': 'tiger',
   'color': 'white with black spots',
   'breed': 'dalmation',
-  'legs': '4'
+  'legs': 4
 }
 
-dog['age'] = '9'
+dog['age'] = 9
 print(dog)    #{'name': 'tiger', 'color': 'white with black spots', 'breed': 'dalmation', 'legs': '4', 'age': '9'}
