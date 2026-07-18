@@ -41,7 +41,7 @@
 #December, January or February, the season is Winter. 
 #March, April or May, the season is Spring. 
 #June, July or August, the season is Summer
-#    FILE: months_weather.py
+#    FILE: months_season.py
 
 #
 #
