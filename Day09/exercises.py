@@ -17,6 +17,21 @@
 #You are 5 years older than me.
 #    FILE: age_gap.py
 
+#Get two numbers from the user using input prompt. 
+#If a is greater than b return a is greater than b, if a is less b return a is smaller than b, else a is equal to b. 
+#Output:
+#Enter number one: 4
+#Enter number two: 3
+#4 is greater than 3
+#    FILE: digit_comparision.py
+
+
+#
+#
+#
+#
+#
+#
 #
 #
 #
