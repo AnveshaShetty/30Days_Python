@@ -5,7 +5,7 @@
 
 fruits = ['banana', 'orange', 'mango', 'lemon']
 fruit_name = input("Enter a fruit: ")
-if (fruit_name in fruits) == True:
+if fruit_name in fruits:
   print("That fruit already exist")
 else:
   fruits.append(fruit_name)
