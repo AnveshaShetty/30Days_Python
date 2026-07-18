@@ -16,5 +16,5 @@ elif my_age < your_age:
   else:
     print(f"You are {diff} years older than me")
 else:
-  diff = your_age - my_age
+  diff = abs(your_age - my_age)
   print(f"You are {diff} years younger tham me")
