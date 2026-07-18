@@ -20,7 +20,7 @@ if ('skills' in person) == True:
 #Check if the person dictionary has skills key, if so check if the person has 'Python' skill and print out the result.
 if ('skills' in person) == True:
   if ('Python' in person['skills']) == True:
-    print("Python is present in the sills section")    
+    print("Python is present in the skills section")    
 else:
   print("Complete python!!!")    #Python is present in the sills section
   
