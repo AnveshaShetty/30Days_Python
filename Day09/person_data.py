@@ -30,12 +30,12 @@ else:
 #else print('unknown title')
 if len(person['skills']) == 2:
   if ('JavaScript' in person['skills'] and 'React' in person['skills']):
-    print("He is a front end developer")
+    print("He is a frontend developer")
 else:
   if ('Node' in person['skills'] and 'MongoDB' in person['skills'] and 'React' in person['skills']):
     print('He is a fullstack developer')
   elif ('Node' in person['skills'] and 'MongoDB' in person['skills'] and'Python' in person['skills']):
-    print('He is a developer developer')
+    print('He is a backend developer')
   else:
     print("Unkown title")    #He is a fullstack developer
 
