@@ -12,6 +12,8 @@
   #####
   ######
   #######
+#  FILE: triangle.py
+
 #Use nested loops to create the following:
 #   # # # # # # #
 #   # # # # # # #
@@ -21,6 +23,8 @@
 #   # # # # # # #
 #   # # # # # # #
 #   # # # # # # #
+#  FILE: hash_matrix.py
+
 #Print the following pattern:
 #0 x 0 = 0
 #1 x 1 = 1
@@ -33,9 +37,16 @@
 #8 x 8 = 64
 #9 x 9 = 81
 #10 x 10 = 100
+#  FILE: multiples.py
+
 #Iterate through the list, ['Python', 'Numpy','Pandas','Django', 'Flask'] using a for loop and print out the items.
+#  FILE: languages.py
+
 #Use for loop to iterate from 0 to 100 and print only even numbers
 #Use for loop to iterate from 0 to 100 and print only odd numbers
+#  FILE: even_odd.py
+
+
 #
 #
 #
