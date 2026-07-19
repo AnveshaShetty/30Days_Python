@@ -26,7 +26,9 @@ This repository documents my journey of learning Python through daily coding pra
 | Day 6 | Tuples | ✅ |
 | Day 7 | Sets | ✅ |
 | Day 8 | Dictionaries | ✅ |
-| Day 9 | Coming Soon | ⏳ |
+| Day 9 | Conditional | ✅ |
+| Day 10 | Loops | ✅ |
+| Day 11 | Coming Soon | ⏳ |
 
 ---
 
