@@ -29,7 +29,9 @@ This repository documents my journey of learning Python through daily coding pra
 | Day 9 | Conditional | ✅ |
 | Day 10 | Loops | ✅ |
 | Day 11 | Functions | ✅ |
-| Day 12 | Coming Soon | ⏳ |
+| Day 12 | Modules | ✅ |
+| Day 13 | List Comprehension and Lambda | ⏳ |
+| Day 14 | Coming Soon | ⏳ |
 
 ---
 
