@@ -43,32 +43,13 @@
 #      FILE: generate_colors.py
 
 
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+#Level 3
+
+#Call your function shuffle_list, it takes a list as a parameter and it returns a shuffled list
+#      FILE: shuffle.py
+
+#Write a function which returns an array of seven random numbers in a range of 0-9. All the numbers must be unique.
+#      FILE: random_array.py
 #
 #
 #
