@@ -21,9 +21,12 @@
 #dIV0SSUTgAdKwStr
 #    FILE: generate_random.py 
 
-#
-#
-#
+#Write a function named rgb_color_gen. It will generate rgb colors (3 values ranging from 0 to 255 each).
+#print(rgb_color_gen())
+# rgb(125,244,255) - the output should be in this form
+#      FILE: rgb_generator.py
+
+
 #
 #
 #
