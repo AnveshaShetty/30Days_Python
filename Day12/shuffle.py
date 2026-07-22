@@ -2,7 +2,7 @@
 import random
 
 def shuffle_list(list):
-  shuffled = random.ample(list, len(list))
+  shuffled = random.sample(list, len(list))
   return shuffled
 
 my_list = [1,2,3,4,5,6,7,8,9]
