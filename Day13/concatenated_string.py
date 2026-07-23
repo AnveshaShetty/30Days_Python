@@ -1,5 +1,5 @@
 #Change the following list to a list of concatenated strings:
-countries = [[('Finland', 'Helsinki')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
+names = [[('Asabeneh', 'Yetayeh')], [('David', 'Smith')], [('Donald', 'Trump')], [('Bill', 'Gates')]]
 
-country_string = [{'country': country.upper(), 'city': city.upper()} for [(country,city)] in countries]
-print(country_string)
+name_string = [(f"{fname} {lname}") for [(fname,lname)] in names]
+print(name_string)
