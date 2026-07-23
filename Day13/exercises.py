@@ -18,7 +18,7 @@
 #(8, 1, 8, 64, 512, 4096, 32768),
 #(9, 1, 9, 81, 729, 6561, 59049),
 #(10, 1, 10, 100, 1000, 10000, 100000)]
-#    FILE: multiples_tuple.py
+#    FILE: multiple_tuple.py
 
 #Flatten the following list to a new list:
 #countries = [[('Finland', 'Helsinki')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
@@ -26,6 +26,19 @@
 #[['FINLAND','FIN', 'HELSINKI'], ['SWEDEN', 'SWE', 'STOCKHOLM'], ['NORWAY', 'NOR', 'OSLO']]
 #    FILE: country_list.py
 
-#
-#
-#
+#Change the following list to a list of dictionaries:
+#countries = [[('Finland', 'Helsinki')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
+#output:
+#[{'country': 'FINLAND', 'city': 'HELSINKI'},
+#{'country': 'SWEDEN', 'city': 'STOCKHOLM'},
+#{'country': 'NORWAY', 'city': 'OSLO'}]
+#    FILE: list_of_dictionaries.py
+
+#Change the following list of lists to a list of concatenated strings:
+#names = [[('Asabeneh', 'Yetayeh')], [('David', 'Smith')], [('Donald', 'Trump')], [('Bill', 'Gates')]]
+#output
+#['Asabeneh Yetaeyeh', 'David Smith', 'Donald Trump', 'Bill Gates']
+#    FILE: concatenated_string.py
+
+#Write a lambda function which can solve a slope or y-intercept of linear functions.
+#    FILE: lambda.py
