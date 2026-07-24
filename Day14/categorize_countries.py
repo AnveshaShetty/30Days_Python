@@ -9,3 +9,9 @@ print(land_countries)
 
 ia_countries = categorize_countries(all_countries, "ia")
 print(ia_countries)     #end with "ia"
+
+island_countries = categorize_countries(all_countries, "island")
+print(island_countries) #end with "island"
+
+stan_countries = categorize_countries(all_countries, "stan")
+print(stan_countries)    #end with "stan" 
