@@ -31,7 +31,9 @@ This repository documents my journey of learning Python through daily coding pra
 | Day 11 | Functions | ✅ |
 | Day 12 | Modules | ✅ |
 | Day 13 | List Comprehension and Lambda | ✅ |
-| Day 14 | Coming Soon | ⏳ |
+| Day 14 | Higher Order Functions | ✅ |
+| Day 15 | Error Types | ⏳ |
+| Day 16 | Coming Soon | ⏳ |
 
 ---
 
