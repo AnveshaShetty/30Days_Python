@@ -33,7 +33,14 @@ This repository documents my journey of learning Python through daily coding pra
 | Day 13 | List Comprehension and Lambda | ✅ |
 | Day 14 | Higher Order Functions | ✅ |
 | Day 15 | Error Types | ✅ |
-| Day 16 | Coming Soon | ⏳ |
+| Day 16 | Python Date & Time | ✅ |
+| Day 17 | Exception Handling & List Unpacking | ✅ |
+| Day 18 | Regular Expressions (Regex) | ✅ |
+| Day 19 | File Handling & JSON Processing | ✅ |
+| Day 20 | Python Modules, Packages & Library Installation | ✅ |
+| Day 21 | Classes & Objects | ✅ |
+| Day 22 | Web Scraping | ✅ |
+| Day 23 | Coming Soon | ⏳ |
 
 ---
 
