@@ -40,7 +40,8 @@ This repository documents my journey of learning Python through daily coding pra
 | Day 20 | Python Modules, Packages & Library Installation | ✅ |
 | Day 21 | Classes & Objects | ✅ |
 | Day 22 | Web Scraping | ✅ |
-| Day 23 | Coming Soon | ⏳ |
+| Day 23 | Python Virtual Environment | ✅ |
+| Day 24 | Coming Soon | ⏳ |
 
 ---
 
