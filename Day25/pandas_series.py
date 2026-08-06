@@ -1,4 +1,4 @@
-pip install pandas
+#pip install pandas  (for installation purposes)
 
 #Creating Pandas Series with Default Index
 import pandas as pd
