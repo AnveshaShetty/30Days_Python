@@ -1,6 +1,6 @@
-#code to run in terminal inorder to build an application using react
+Code to run in terminal inorder to build an application using react:
 
-pip install virtualenv  (incase if vistual environment has not been installed)
+pip install virtualenv         (incase if vistual environment has not been installed)
 python -m pip show virtualenv  (double check)
 
 mkdir python_for_web
