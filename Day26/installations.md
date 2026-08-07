@@ -79,3 +79,4 @@ You should now see Flask and its dependencies listed.
 - Verified that no packages were initially installed using `pip freeze`.
 - Installed Flask.
 - Confirmed the installation by running `pip freeze` again.
+-The Flask project is present on 'python_for_web' folder 
