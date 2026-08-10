@@ -5,10 +5,13 @@ import pymongo
 from bson.objectid import ObjectId
 from bson.json_util import dumps
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
 
-MONGODB_URI='mongodb+srv://anvi_python:30python_@30daysofpython.bzhklai.mongodb.net/?appName=30DaysOfPython'
+MONGODB_URI = os.getenv('MONGODB_URI')
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_days_of_python']
 
