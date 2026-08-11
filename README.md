@@ -45,7 +45,9 @@ This repository documents my journey of learning Python through daily coding pra
 | Day 25 | Pandas | ✅ |
 | Day 26 | Python with Flask | ✅ |
 | Day 27 | Python with MongoDB | ✅ |
-| Day 28 | Coming Soon | ⏳ |
+| Day 28 | API | ✅ |
+| Day 29 | Built own API  | ✅ |
+| Day 30 | Conclusion - Last Day | ✅ |
 
 ---
 
